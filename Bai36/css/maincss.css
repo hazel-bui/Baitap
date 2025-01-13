@@ -1,0 +1,27 @@
+h3{
+    height:50px;
+    width:100%;
+    background:url('hinh/h3.png') no-repeat 0 100%;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    margin:0;
+    padding: 10px 10px 25px 45px;
+    background:url('hinh/ul.png') no-repeat 0 100%;
+    list-style-image: url('hinh/li.png');
+    width:200px;
+}
+a:link{
+    color:red
+}
+a:visited{
+    color:green
+}
+a:hover{
+    color:pink
+}
+a:acitve{
+    color:blue
+}
